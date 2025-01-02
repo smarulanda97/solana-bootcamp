@@ -1,0 +1,6 @@
+{
+  "name": "Example token",
+  "symbol": "EXMPL",
+  "description": "Example token for Solana foundation Bootcamp",
+  "image": "https://raw.githubusercontent.com/mikemaccana/token-command-line/main/lights.png"
+}
